@@ -29,4 +29,13 @@ The project execution includes various steps:
 The data model is designed to efficiently manage and analyze business data using a combination of star and snowflake schemas. It includes 8 fact tables: fact_actual_estimates, fact_forecast_monthly, manufacturing_cost, freight_cost, operational_cost, post_invoice_deduction, NsGmTarget, and Marketshare. These fact tables includes the transactional data and are placed at the center of the model. The fact tables are surrounded by 4 dimension tables: dim_customer, dim_product, dim_date, and dim_market, which provide descriptive attributes related to the facts, forming a star schema structure. Additionally, a snowflake schema is utilized to normalize certain dimensions for more efficient data organization and storage. This involves connecting tables such as fiscal_year, sub_zone, and category to the relevant dimension tables, thus optimizing the data model for complex queries and reducing redundancy. 
 ![Data Model](https://github.com/MadhuSainani/Business-Intelligence-360/blob/main/DataModel_BI360.png)
 
+## Building The Dashboard:
+For Business Insights 360, I have created 5 multi-view dashboards, which serves the requirements of various stakeholders. Let's have a look at each them.
+### Finance View:
+- The finance view indicates clear picture of organization's financial growth. This view includes KPIs such as Net sales, Gross Margin %, and Net Profit %.
+- The Profit & Loss statement shows the progress of each metric, which allows users to filter by factors such as fiscal year, year-to-date, and year-to-go, etc.
+- The Area chart displays the comparison of selected measure in P&L statement with Benchmark numbers ( LY or Target).
+
+
+
 
