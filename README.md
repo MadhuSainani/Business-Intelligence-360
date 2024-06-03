@@ -35,7 +35,20 @@ For Business Insights 360, I have created 5 multi-view dashboards, which serves 
 - The finance view indicates clear picture of organization's financial growth. This view includes KPIs such as Net sales, Gross Margin %, and Net Profit %.
 - The Profit & Loss statement shows the progress of each metric, which allows users to filter by factors such as fiscal year, year-to-date, and year-to-go, etc.
 - The Area chart displays the comparison of selected measure in P&L statement with Benchmark numbers ( LY or Target).
-
+### Sales View: 
+- The sales view access organization's growth at the customer level using Net Sales and Gross Margin metrics.
+- The scatter plot assist the stakeholders to identify customers that contribute significantly to organization's growth by displaying a comparison of Net sales and Gross MArgin.
+- Donot chart displays the proportion of pre-invoice deductions, post-invoice deductions, and Gross Margin.
+### Marketing View: 
+- The marketing view access organization's growth at the product level using Net Sales, Gross Margin, and Net Profit metrics.
+- The scatter plot assist stakeholders in comparing Net sales with GM% or NP%.
+- The Donut chart displays the proportion of Gross MArgin and Total COGS (Cost of Goods Sold).
+### Supply Chain View:
+- Supply chain view examines Net Error and Absolute Error by assesing key metrics based on actual sales quantity and forecasted sales quantity.
+- The column chart illustrates a comparison between the present Forecast Accuracy and that of the previous year for each month, showing the Net Error.
+### Executive View:
+- Customized for top level executives, showcasing top 5 customers & products by revenue contribution, along with yearly trends in Revenue, GM%, NP%, & Market Share %.
+- The Ribbon chart designed to analyze the market share % of top-level manufacturers for each fiscal year.
 
 
 
