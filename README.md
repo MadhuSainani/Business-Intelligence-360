@@ -1,4 +1,4 @@
-# Business-Intelligence-360
+# Business Insights 360
 Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZWU1MmExZDQtMGUzMC00Mjg3LTk1NzUtMGM3ZmI2NjVkNGQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectionb0ed72eebc8562dcce4a
 ## Problem Statement:
 AtliQ Technologies is a company that sells hardware such as PCs, network and storage devices, and peripherals to various customers across the world.
